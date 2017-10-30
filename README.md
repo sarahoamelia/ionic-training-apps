@@ -15,7 +15,7 @@ $ npm install -g ionic cordova
 $ ionic start myProject tabs
 ```
 
-Then, to run it, cd into `git push -u origin master` and run:
+Then, to run it, cd into `myProject` and run:
 
 ```bash
 $ ionic cordova platform add android
