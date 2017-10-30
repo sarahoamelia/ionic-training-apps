@@ -12,14 +12,18 @@ Take the name after `ionic2-starter-`, and that is the name of the template to b
 
 ```bash
 $ npm install -g ionic cordova
+  for installing ionic and cordova
 $ ionic start myProject tabs
+  create new ionic project
 ```
 
 Then, to run it, cd into `myProject` and run:
 
 ```bash
 $ ionic cordova platform add android
+  add platform to project
 $ ionic cordova run android
+  run project to android device
 ```
 
 Substitute ios for android if not on a Mac.
